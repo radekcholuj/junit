@@ -1,4 +1,4 @@
-package pl.radekcholuj.junit;
+package pl.radekcholuj.junit.validators;
 
 public final class Validator {
 
